@@ -29,11 +29,11 @@
             <value description="address"></value>
             <value description="city">Denver</value>
             <value description="country">US</value>
-            <value description="email">matt_raible@yahoo.com</value>
+            <value description="email">test@cxic.com</value>
             <value description="phone_number"></value>
             <value description="postal_code">80210</value>
             <value description="province">CO</value>
-            <value description="website">http://tomcat.apache.org</value>
+            <value description="website">http://www.cxic.com</value>
             <value description="password_hint"><![CDATA[A male kitty.]]></value>
             <value description="version">1</value>
             <value description="account_enabled">1</value>
@@ -50,11 +50,11 @@
             <value description="address"></value>
             <value description="city">Denver</value>
             <value description="country">US</value>
-            <value description="email">matt@raibledesigns.com</value>
+            <value description="email">test@cxic.com</value>
             <value description="phone_number"></value>
             <value description="postal_code">80210</value>
             <value description="province">CO</value>
-            <value description="website">http://raibledesigns.com</value>
+            <value description="website">http://www.cxic.com</value>
             <value description="password_hint"><![CDATA[Not a female kitty.]]></value>
             <value description="version">1</value>
             <value description="account_enabled">1</value>
@@ -71,7 +71,7 @@
             <value description="address"></value>
             <value description="city">Denver</value>
             <value description="country">US</value>
-            <value description="email">two_roles_user@appfuse.org</value>
+            <value description="email">user@cxic.com</value>
             <value description="phone_number"></value>
             <value description="postal_code">80210</value>
             <value description="province">CO</value>

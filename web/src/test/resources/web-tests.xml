@@ -148,7 +148,7 @@
                 <setinputfield description="select province" name="address.province" value="CO"/>
                 <setselectfield description="select country" name="address.country" value="US"/>
                 <setinputfield description="set postalCode" name="address.postalCode" value="80210"/>
-                <setinputfield description="set email" name="email" value="hjy009@cxic.com"/>
+                <setinputfield description="set email" name="email" value="test@cxic.com"/>
                 <setinputfield description="set website" name="website" value="http://raibledesigns.com"/>
                 <setinputfield description="set passwordHint" name="passwordHint" value="test"/>
                 <setselectfield description="select roles" name="userRoles" value="ROLE_USER"/>
@@ -186,7 +186,7 @@
                 <setinputfield description="set state" name="address.province" value="CO"/>
                 <setselectfield description="select country" name="address.country" value="US"/>
                 <setinputfield description="set postalCode" name="address.postalCode" value="80210"/>
-                <setinputfield description="set email" name="email" value="gptalk@163.com"/>
+                <setinputfield description="set email" name="email" value="test@cxic.com"/>
                 <setinputfield description="set website" name="website" value="http://raibledesigns.com"/>
                 <setinputfield description="set passwordHint" name="passwordHint" value="test"/>
                 <clickbutton label="${button.register}" description="Click button 'Signup'"/>

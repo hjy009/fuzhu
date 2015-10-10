@@ -83,7 +83,7 @@ public class PasswordTokenManagerTest {
         user.setPassword("foobar");
         user.setFirstName("Token");
         user.setLastName("Test");
-        user.setEmail("token-test@appfuse.org");
+        user.setEmail("test@cxic.com");
         userManager.saveUser(user);
     }
 
