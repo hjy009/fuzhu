@@ -37,4 +37,8 @@
     <!-- Activates scanning of @Repository -->
     <context:component-scan base-package="com.cxic.dao"/>
 
+	<bean id="passportDao" class="com.cxic.dao.hibernate.GenericDaoHibernate">
+		<constructor-arg value="com.cxic.model.Passport" />
+	</bean>
+	
 </beans>

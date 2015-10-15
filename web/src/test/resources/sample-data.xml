@@ -119,4 +119,19 @@
             <value description="role_id">-2</value>
         </row>
     </table>
+ 	<table name='passport'>
+		<column>id</column>
+		<column>username</column>
+		<column>password</column>
+		<row>
+			<value>1</value>
+			<value>Matt</value>
+			<value>Raible</value>
+		</row>
+		<row>
+			<value>2</value>
+			<value>Bob</value>
+			<value>Johnson</value>
+		</row>
+	</table>
 </dataset>
